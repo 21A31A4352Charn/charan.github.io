@@ -189,6 +189,7 @@ img{
     width: 650px;
     font-family:poppins;
     flex-wrap: wrap;
+    margin-left: 60px;
 }
 .aboutt p{
     font-weight:bold;
@@ -457,7 +458,6 @@ img{
         width: 420px;
         height: 600px;
         text-align:center;
-        margin-left: 60px;
     }
     .skills{
         height: 100vh;
@@ -528,7 +528,7 @@ img{
     .fottericon{
         width: 50%;
     }
-     .dropbtn {
+    .dropbtn {
         display: block;
         background-color: #04AA6D;
         color: white;
