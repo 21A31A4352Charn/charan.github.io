@@ -445,6 +445,7 @@ img{
         width: 420px;
         height: 600px;
         text-align:center;
+        margin-left: 60px;
     }
     .skills{
         height: 100vh;
